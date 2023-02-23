@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflisto en la main
+=======
+conflisto
+>>>>>>> ahorita2
